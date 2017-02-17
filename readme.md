@@ -22,4 +22,4 @@ composer update
 修改`SESSION_DRIVER`的值为`redis`  
 添加`SESSION_DOMAIN=.kq.cc`  
 
-修改`APP_KEY`的值与<a href="https://github.com/yedanten/laravel-attendance-system">主系统</a>>的APP_KEY一致
+修改`APP_KEY`的值与<a href="https://github.com/yedanten/laravel-attendance-system">主系统</a>的APP_KEY一致
